@@ -1,5 +1,5 @@
 # ovh-fw-ip-changer
-A simple script to run if you have dynamic IP address to change the old ip in the "ssh access rule" on your OVH firewall 
+A simple script to run if you have a dynamic IP address and need to change the old ip in the "ssh access rule" on your OVH firewalls 
 with the new one.
 
 **SETUP**
